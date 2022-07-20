@@ -15,3 +15,12 @@ JavaScript helps the users to build modern web applications to interact directly
 In this challenge, Javascript was utilized to visualiza earthquake data in relation to the tectonic plates’ location on the earth, and display all the earthquakes with a magnitude greater than 4.5 on the map, and they would like to see the data on a third map.
 
 ### Tools Used
+
+* Javascrispt
+* CSS
+* HTML
+* Jupyternotebook
+* Gitbash
+* Github
+* VisualStudio
+
